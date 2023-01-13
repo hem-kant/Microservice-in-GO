@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "micro-Frontend"
+		},
+		{
+			"path": "Broker-Service"
+		},
+		{
+			"path": "Infra"
+		},
+		{
+			"path": "authentication-ms"
+		},
+		{
+			"path": "logger-service"
+		}
+	]
+}
